@@ -5,7 +5,6 @@ Tech Stack:
 ✅ Hibernate/JPA
 ✅ MySQL
 ✅ REST APIs
-✅ HTML/CSS/JavaScript
 ✅ Postman Testing
 
 Modules Implemented:

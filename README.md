@@ -25,4 +25,7 @@ Currently working on frontend integration and payment module.
 
 #Java #SpringBoot #BackendDevelopment #Hibernate #RESTAPI #MySQL #FullStackDevelopment
 
-![Image1](https://github.com/Supreeth-AL/QuickBite/blob/main/vs_code1.png)
+![vs_code1](https://github.com/Supreeth-AL/QuickBite/blob/main/vs_code1.png)
+![postman](https://github.com/Supreeth-AL/QuickBite/blob/main/Postman.png)
+![database](https://github.com/Supreeth-AL/QuickBite/blob/main/database_design.png)
+
